@@ -1,5 +1,8 @@
 _repo: Bicycling-for-Ladies-The-Common-Sense-of-Bicycling-with-Hints-as-to-the-Art-of-WheelingAdvice__62227
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62227-h/images/cover.jpg
 creator:
   author:
     agent_name: Ward, Maria E.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51839'
     url: http://www.gutenberg.org/2009/agents/51839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62227#Bicycling-for-Ladies-The-Common-Sense-of-Bicycling-with-Hints-as-to-the-Art-of-WheelingAdvice_
 gutenberg_issued: '2020-05-25'
 gutenberg_type: Text
 identifiers:
