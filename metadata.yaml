@@ -1,0 +1,35 @@
+_repo: Bicycling-for-Ladies-The-Common-Sense-of-Bicycling-with-Hints-as-to-the-Art-of-WheelingAdvice__62227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, Maria E.
+    birthdate: 1863
+    gutenberg_agent_id: '51839'
+    url: http://www.gutenberg.org/2009/agents/51839
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62227'
+  lccn: '05024507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Cycling'
+- !lcsh 'Cycling for women'
+- GITenberg
+tableOfContents: Possibilities -- What the bicycle does -- On wheels in general and
+  bicycles in particular -- For beginners -- How to make progress -- Helping and teaching;
+  what to learn -- A few things to remember -- The art of wheeling on a bicycle --
+  Position and power -- Difficulties to overcome -- Dress -- Watch and cyclometer
+  -- Women and tools -- Tools and how to use them -- Solving a problem -- Where to
+  keep a bicycle -- Tires -- Mechanics of bicycling -- Adjustment -- Exercise -- Training
+  -- Breathlessness; the limit mechanical.
+title: 'Bicycling for Ladies
+
+  The Common Sense of Bicycling; with Hints as to the Art of Wheeling—Advice to Beginners—Dress—Care
+  of the Bicycle—Mechanics—Training—Exercise, etc., etc.'
+url: http://www.gutenberg.org/ebooks/62227
